@@ -1,4 +1,4 @@
-# accent_detector/README.md
+
 # 🌍 English Accent Analyzer
 
 A tool to evaluate spoken English proficiency by analyzing accent characteristics.
