@@ -1,11 +1,20 @@
-# Accent Detector
+# accent_detector/README.md
+# 🌍 English Accent Analyzer
 
-This app transcribes speech and classifies the speaker's accent using Whisper and SpeechBrain.
+A tool to evaluate spoken English proficiency by analyzing accent characteristics.
+
+## Features
+- Accepts any public video URL (YouTube, Loom, direct MP4)
+- Extracts audio from video
+- Transcribes speech using OpenAI Whisper
+- Classifies English accents with confidence scores
+- Provides detailed analysis report
+
 
 ## Setup
 ```bash
-python -m venv accentenv
-source accentenv/bin/activate
+python -m venv detectenv
+source detectenv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```

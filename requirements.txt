@@ -1,10 +1,13 @@
-numpy==1.24.4
+# accent_detector/requirements.txt
 streamlit==1.35.0
 requests==2.31.0
+yt-dlp==2023.10.13
+moviepy==1.0.3
 openai-whisper==20230314
-ffmpeg-python==0.2.0
-soundfile==0.12.1
 torch==2.0.1
 torchaudio==2.0.2
 speechbrain==0.5.15
-transformers==4.41.1
+numpy==1.24.4
+validators==0.22.0
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
