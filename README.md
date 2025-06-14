@@ -1,4 +1,11 @@
-in/activate
+# Accent Detector
+
+This app transcribes speech and classifies the speaker's accent using Whisper and SpeechBrain.
+
+## Setup
+```bash
+python -m venv accentenv
+source accentenv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
