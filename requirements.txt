@@ -1,0 +1,10 @@
+numpy==1.24.4
+streamlit==1.35.0
+requests==2.31.0
+openai-whisper==20230314
+ffmpeg-python==0.2.0
+soundfile==0.12.1
+torch==2.1.0
+torchaudio==2.1.0
+speechbrain==0.5.15
+transformers==4.41.1
